@@ -1,27 +1,21 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: 엔키아 기술 블로그
 permalink: /
 ---
 
-## Published
+## 엔키아 기술 블로그
 
-[https://nkia-development.github.io/nkia-gitbook/](https://nkia-development.github.io/nkia-gitbook/)
+<br/>
+
+> 엔키아 기술 블로그 입니다.
+>
+> [https://nkia-development.github.io/nkia-gitbook/](https://nkia-development.github.io/nkia-gitbook/)
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
-<br>
-<br>
-
-## 엔키아 기술 블로그
-
-<br>
-
-> 엔키아 기술 블로그 입니다.  
-> [http://www.nkia.co.kr/](http://www.nkia.co.kr/)
-
-<br>
-<br>
+<br/>
+<br/>
 
 ## local 에서 배포될 페이지 미리보기 (개발서버)
 
